@@ -5,5 +5,6 @@ Nim : 2015150013
 
 ![alt text](https://github.com/satelittle/appWeather-withAPI/blob/master/barcodeWeatherWithAPI.PNG)
 
-![text](Link Snack.io : https://snack.expo.io/@wongide/Z2l0aH)
+![text text](Link Snack.io : https://snack.expo.io/@wongide/Z2l0aH)
+
 Link Snack.io : https://snack.expo.io/@wongide/Z2l0aH
